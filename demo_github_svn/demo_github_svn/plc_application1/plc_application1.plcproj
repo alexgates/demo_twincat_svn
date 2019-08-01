@@ -15,6 +15,9 @@
     <LibraryReferences>{5550603e-b33d-4acb-ade1-579fceb66eea}</LibraryReferences>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="DUTs\DUT_1.TcDUT">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="GVLs\GVL_1.TcGVL">
       <SubType>Code</SubType>
       <LinkAlways>true</LinkAlways>
