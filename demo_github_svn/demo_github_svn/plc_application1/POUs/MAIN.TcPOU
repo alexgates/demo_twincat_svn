@@ -6,6 +6,7 @@ VAR
 	hello:BOOL;
 	newVar:INT;
 	newone:INT;
+	nextone:real;
 END_VAR
 ]]></Declaration>
     <Implementation>
