@@ -5,7 +5,8 @@
 VAR_GLOBAL
 		myInt1:INT; (*my var*)
 		efhehfi:INT;
-		bYAwVar1:Bool;
+		bYAwVar1:BOOL;
+		mynewvar:bool;
 END_VAR]]></Declaration>
   </GVL>
 </TcPlcObject>
