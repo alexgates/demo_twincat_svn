@@ -18,6 +18,10 @@
     <Compile Include="DUTs\DUT_1.TcDUT">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="GVLs\GVL.TcGVL">
+      <SubType>Code</SubType>
+      <LinkAlways>true</LinkAlways>
+    </Compile>
     <Compile Include="GVLs\GVL_1.TcGVL">
       <SubType>Code</SubType>
       <LinkAlways>true</LinkAlways>
