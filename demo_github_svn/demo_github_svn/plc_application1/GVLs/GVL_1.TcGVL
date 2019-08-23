@@ -4,7 +4,8 @@
     <Declaration><![CDATA[{attribute 'qualified_only'}
 VAR_GLOBAL
 		myInt1:INT; (*my var*)
-		efhehfi:int;
+		efhehfi:INT;
+		bYAwVar1:Bool;
 END_VAR]]></Declaration>
   </GVL>
 </TcPlcObject>
