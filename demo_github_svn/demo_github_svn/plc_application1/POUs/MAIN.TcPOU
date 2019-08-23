@@ -6,7 +6,8 @@ VAR
 	hello:BOOL;
 	newVar:INT;
 	newone:INT;
-	nextone:real;
+	nextone:REAL;
+	thisisnotInGits_1:REAL;
 END_VAR
 ]]></Declaration>
     <Implementation>
