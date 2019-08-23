@@ -7,6 +7,7 @@ VAR_GLOBAL
 		efhehfi:INT;
 		bYAwVar1:BOOL;
 		bPickupSensorA:BOOL;
+		newVar1:BOOL;
 END_VAR]]></Declaration>
   </GVL>
 </TcPlcObject>
