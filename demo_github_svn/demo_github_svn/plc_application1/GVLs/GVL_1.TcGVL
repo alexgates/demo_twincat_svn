@@ -9,7 +9,8 @@ VAR_GLOBAL
 		mynewvar:BOOL;
 		dfhfheh:BOOL;
 		eiefifie:INT;
-		efeifihi:int;
+		efeifihi:INT;
+		changeInMainTrunk:BOOL;
 END_VAR]]></Declaration>
   </GVL>
 </TcPlcObject>
