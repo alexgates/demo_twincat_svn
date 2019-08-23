@@ -3,13 +3,16 @@
   <POU Name="POU" Id="{84837b54-8a87-4787-98ed-252eb95b0351}" SpecialFunc="None">
     <Declaration><![CDATA[PROGRAM POU
 VAR
+	bTest:BOOL;
 END_VAR
 ]]></Declaration>
     <Implementation>
-      <ST><![CDATA[GVL_1.bYAwVar1:=true;]]></ST>
+      <ST><![CDATA[GVL_1.bYAwVar1:=TRUE;
+btest:=0;]]></ST>
     </Implementation>
     <LineIds Name="POU">
       <LineId Id="5" Count="0" />
+      <LineId Id="10" Count="0" />
     </LineIds>
   </POU>
 </TcPlcObject>
