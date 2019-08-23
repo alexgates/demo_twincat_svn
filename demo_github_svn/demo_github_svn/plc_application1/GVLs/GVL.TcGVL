@@ -4,7 +4,8 @@
     <Declaration><![CDATA[{attribute 'qualified_only'}
 VAR_GLOBAL
 	newTrunks:BOOL;
-	dddj:int;
+	dddj:INT;
+	anotherBranchchange:BOOL;
 END_VAR]]></Declaration>
   </GVL>
 </TcPlcObject>
