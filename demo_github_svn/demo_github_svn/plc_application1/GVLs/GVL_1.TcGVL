@@ -8,7 +8,8 @@ VAR_GLOBAL
 		bYAwVar1:BOOL;
 		mynewvar:BOOL;
 		dfhfheh:BOOL;
-		eiefifie:int;
+		eiefifie:INT;
+		efeifihi:int;
 END_VAR]]></Declaration>
   </GVL>
 </TcPlcObject>
