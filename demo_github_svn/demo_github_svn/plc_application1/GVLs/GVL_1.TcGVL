@@ -1,9 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TcPlcObject Version="1.1.0.1" ProductVersion="3.1.4022.18">
+<TcPlcObject Version="1.1.0.1" ProductVersion="3.1.4022.17">
   <GVL Name="GVL_1" Id="{9634ded6-8da4-41a3-805d-c800cc5fd4b3}">
     <Declaration><![CDATA[{attribute 'qualified_only'}
 VAR_GLOBAL
 		myInt1:INT; (*my var*)
+		efhehfi:int;
 END_VAR]]></Declaration>
   </GVL>
 </TcPlcObject>
